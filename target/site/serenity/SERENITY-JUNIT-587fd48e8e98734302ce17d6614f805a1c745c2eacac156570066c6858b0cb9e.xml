@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Validar agregar al carrito" skipped="0" tests="1" time="31.01" timestamp="2019-08-15 07:56:25"><testcase name="Caso exitoso agregar al carrito"><failure message="&#10;Expected: a string containing &quot;Tienes 2 item&quot;&#10;     but: was &quot;Tienes 1 item&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Tienes 2 item"
+     but: was "Tienes 1 item"</failure><system-err>
+Expected: a string containing "Tienes 2 item"
+     but: was "Tienes 1 item"&#13;
+com.google.www.stepdefinitions.RetoSophosStepdefinition.validoTituloDelCarrito(RetoSophosStepdefinition.java:50)&#13;
+✽.Valido titulo del carrito "Tienes 2 item"(src/test/resources/com/google/www/features/RetoSophosMetro.feature:8)&#13;
+</system-err></testcase></testsuite>
